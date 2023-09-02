@@ -8,13 +8,13 @@ You can declare and initialize arrays in several ways:
 
 ### Single-Dimensional Array
 
-```java
+```
 // Declare and initialize an integer array with 5 elements
 int[] numbers = new int[5];
 
 // Initialize an array with values
 int[] primes = {2, 3, 5, 7, 11};
-```java
+```
 
 ### Multi-Dimensional Array
 Java supports multi-dimensional arrays, including 2D, 3D, and higher dimensions:
