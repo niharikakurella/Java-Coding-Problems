@@ -1,6 +1,5 @@
 # Java-Coding-Problems
 
-![Java Logo](java-logo.png)
 
 ## Overview
 
