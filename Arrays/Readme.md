@@ -13,7 +13,7 @@ You can declare and initialize arrays in several ways:
 int[] numbers = new int[5];
 
 // Initialize an array with values
-int[] primes = {2, 3, 5, 7, 11};
+int[] primes = {2, 3, 5, 7, 11}; ```
 
 ### Multi-Dimensional Array
 Java supports multi-dimensional arrays, including 2D, 3D, and higher dimensions:
