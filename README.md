@@ -31,3 +31,11 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+```
+
+## Contributing
+Contributions are welcome! Fork the repository, create a new branch, make your changes, and submit a pull request. Please follow the contribution guidelines.
+
+## Contact
+For questions or feedback, contact us at niharikakurella@gmail.com.
+
